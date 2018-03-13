@@ -1,2 +1,0 @@
-# LeitorBiometrico
-Projeto
